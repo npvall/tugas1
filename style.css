@@ -1,0 +1,125 @@
+body {
+    background: url(Porsche-keren.jpg);
+    width:100%;
+    height: 100%;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo {
+    width: 150px;
+}
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
+.text1 {
+    font-size: 70px;
+    margin: 20px;
+    font-family:fantasy;
+    letter-spacing: 10px;
+}
+.subtext {
+    font-size: 15px;
+    margin-top: 10px;
+    text-align:center;
+}
+.konten {
+    justify-content: center;
+    
+}
+.judul {
+    text-align: center;
+    font-size: 40px;
+}
+.isi1 {
+    font-size: 25px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    margin :20px, 10px, 20px, 10px;
+    color: gold;
+}
+
+.isi2 {
+    font-size: 25px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    margin :100px, 20px, 100px, 20px;
+    color: black;
+}
+
+.isi3 {
+    font-size: 25px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    margin :20px, 10px, 20px, 10px;
+    color: gold;
+}
+
+.isi4 {
+    font-size: 25px;
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    margin :100px, 20px, 100px, 20px;
+    color:black;
+}
+
+.gambar {
+    display: flex;
+    justify-content: center;
+}
+.gambar1{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}   
+
+.gambar2{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+   
+}
+
+.gambar3{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    
+}
+
+.gambar4{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+.center {
+    width: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;  
+}
+
+.footer {
+    display:flex;
+    justify-content: center;
+    height: 40px;
+}
+
+.ig {
+    width: 50px;
+    height: 50px;
+}
+
+.wa {
+    width: 50px;
+    height: 50px;
+}
